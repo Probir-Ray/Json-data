@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Brain Cancer",
+      "price": 2000,
+      "description": "We offers brain cancer services in multiple locations across country. This means you can receive the highest quality care close to home.",
+      "img": "https://i.ibb.co/SvzJJSL/Brain-Cancer.png"
+    },
+    {
+      "id": 2,
+      "name": "Cancer Care",
+      "price": 1000,
+      "description": "Modern Healthcare patients can expect comprehensive and individualized cancer care, delivered in nearer location.",
+      "img": "https://i.ibb.co/D1HN8Jv/Cancer-Care.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cardiology",
+      "price": 1500,
+      "description": "Our comprehensive heart services include general and preventive cardiology, cardiac testing and imaging, specialized cardiology and cardiac surgery.",
+      "img": "https://i.ibb.co/sFHHgnJ/Cardiology.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pediatrics",
+      "price": 2500,
+      "description": "At Modern Healthcare, we partner with families to deliver expert, compassionate care to infants, children and teens.",
+      "img": "https://i.ibb.co/bHfwhBv/Pediatrics.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Ophthalmology",
+      "price": 500,
+      "description": "We conduct research in public health ophthalmology and provide high-impact, community-based services. Our Mobile Eye Clinic improves access to care in underserved communities.",
+      "img": "https://i.ibb.co/z4PCpCD/Ophthalmology.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Surgery",
+      "price": 1200,
+      "description": "Our surgical team includes experts in multiple subspecialty areas who continually research best practices and advance their skills.",
+      "img": "https://i.ibb.co/GHmzt21/Surgery.jpg"
+    }
+  ]
